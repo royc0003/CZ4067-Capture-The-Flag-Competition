@@ -1,4 +1,6 @@
 // gcc -m64 -z execstack -fPIE -pie -z now chall.c -o chall
+#include <unistd.h>
+
 int main() {
     char buf[0x400];
     int n, i;
