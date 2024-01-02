@@ -5,8 +5,8 @@
 - Categories Attempted:
   - Web
   - Reverse Engineering
-  - Misc: Find flag in GIT
-  - PWN
+  - Misc: Find flag in GIF
+  - PWN/Binary Exploit
   - Quiz
  
 ### Outcome of CTF Report [Refer to attached]
